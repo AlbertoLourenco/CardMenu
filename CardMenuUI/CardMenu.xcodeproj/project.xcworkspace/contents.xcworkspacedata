@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CardMenuUI.xcodeproj">
+      location = "self:/Users/alberto/Desktop/CardMenuUI/CardMenuUI/CardMenu.xcodeproj">
    </FileRef>
 </Workspace>

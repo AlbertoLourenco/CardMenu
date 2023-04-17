@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CardMenuUI
+//  CardMenu
 //
 //  Created by Alberto Lourenço on 3/7/20.
 //  Copyright © 2020 Alberto Lourenço. All rights reserved.
